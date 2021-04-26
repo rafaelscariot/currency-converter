@@ -1,4 +1,4 @@
-# 💰 Currency Converter 💰
+# 💰 Currency Converter
 SPA made with React to converter currencys from different countrys.
 
 This app was developed in this [video class](https://www.youtube.com/watch?v=tbLziJchz48).
