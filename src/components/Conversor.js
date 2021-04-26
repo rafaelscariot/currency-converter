@@ -21,7 +21,7 @@ export default function Conversor(props) {
     const convert = () => {
         let to = coins[props.coinA];
         let value = Number(to) * Number(coinA['coinA']);
-        setCoinB(value);
+        setCoinB(value.toFixed(2));
     };
 
     return (
